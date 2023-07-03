@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+}
+
+.list-container {
+    padding-top: 150px;
+    border-color: black;
+}
+
+.card-header{
+    outline: 2px solid black;
+    color: whitesmoke;
+    background-color: black;
+    border-color: black;
+    font-size: xxx-large;
+}
+
+.list-group-item {
+    font-size: xx-large;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: orange;
+    text-shadow: 
+    -1.5px -1.5px 0 black,
+    1.5px -1.5px 0 black,
+    -1.5px 1.5px 0 black,
+    1.5px 1.5px 0 black;
+}
